@@ -1,4 +1,4 @@
-#🏏 IPL Match Win Probability Predictor
+🏏 IPL Match Win Probability Predictor
 
 An end-to-end Machine Learning + Streamlit application that predicts the winning probability of the batting team in an IPL match based on the current match situation.
 
